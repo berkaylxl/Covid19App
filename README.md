@@ -1,7 +1,7 @@
 
-##Go to App
+## Go to App
 
-covid19app-berkay.netlify.app
+https://covid19app-berkay.netlify.app/
 
 
 ## Api
