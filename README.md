@@ -1,5 +1,22 @@
-# Welcome to GitHub Desktop!
+## Project setup
+```
+npm install
+```
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
